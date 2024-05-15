@@ -17,7 +17,7 @@ The words used in this game have been extracted from the top 1000 most frequentl
 
 ## Deployment
 
-To play without downloading the program on your local device, please visit 'graceful-trifle-92975c.netlify.app'
+To play without downloading the program on your local device, please visit [wordle](https://graceful-trifle-92975c.netlify.app/)
 
 ## Getting Started
 
