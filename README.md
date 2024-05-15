@@ -15,6 +15,10 @@ The words used in this game have been extracted from the top 1000 most frequentl
 5. Incorrect letters will be highlighted in red.
 6. Keep guessing until you either guess the word correctly or run out of attempts.
 
+## Deployment
+
+To play without downloading the program on your local device, please visit 'graceful-trifle-92975c.netlify.app'
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
